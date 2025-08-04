@@ -6,7 +6,7 @@ A simple and user-friendly Currency Converter web application built using **HTML
 
 ## 🔗 Live Demo
 
-👉 [Click here to view the live site](https://your-username.github.io/your-repo-name)
+👉 [Click here to view the live site](https://currency-rho-three.vercel.app/)
 
 ---
 
@@ -36,4 +36,5 @@ A simple and user-friendly Currency Converter web application built using **HTML
 ---
 
 ## 📁 Folder Structure
+
 
